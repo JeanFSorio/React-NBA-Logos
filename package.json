@@ -18,9 +18,8 @@
   },
   "author": "Christopher Katsaras",
   "license": "ISC",
-  "peerDependencies": {
-    "react": "^16.8.6"
-  },
+  "peerDependencies": { "react": ">=16.8.6 <20" },
+
   "devDependencies": {
     "@babel/cli": "^7.14.3",
     "@babel/core": "^7.9.0",
